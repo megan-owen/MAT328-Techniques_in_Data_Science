@@ -1,6 +1,6 @@
 This is a made up dataset that needs a lot of cleaning.			
 			
-Name	Gender	Pay	Months at job
+Name	Gender	Pay	"Months at job"
 Hazel	F	"$85,000 "	36
 Hugo	M	-	20
 Hilbert	male	"$87,000 "	56
