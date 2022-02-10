@@ -1,0 +1,18 @@
+Top 10 results for an imaginary winter olympics sport in which athletes have a time and points.
+There should only be one result for each place.
+
+place;country;time in seconds;points
+1;nor;56.4s;240pts
+2;sweden;57.1s;220pts
+3;swe;57.2s;220pts
+3;swe;57.2s;220pts
+4;usa;58.9s;210pts
+5;canada;58.6s;--
+6;can;59.0s;190pts
+6;can;59.0s;190pts
+7;united states;59.2s;200pts
+8;japan;59.1s;190pts
+9;uzbekistan;59.3s;195pts
+10;sweden;59.8s;190pts
+
+
